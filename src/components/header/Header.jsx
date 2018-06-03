@@ -11,7 +11,7 @@ const Header = () => (
       </Link>
       <h1 className="main-heading">
         <Link to="/">
-          PITCH KARAOK<span>ES</span>
+          BAD EXAMPLE :DD
         </Link>
       </h1>
     </div>

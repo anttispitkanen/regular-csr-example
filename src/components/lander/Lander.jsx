@@ -6,7 +6,7 @@ import './Lander.scss';
 const Lander = () => (
   <div className="lander">
     <h2 className="lander-heading">Welcome to Pitch KaraokES!</h2>
-    <p className="poison">Choose your poison:</p>
+    <p className="poison">Try reloading at a route other than root!</p>
     <div className="links-container">
       <Link className="link quickfire" to="/quickfire">
         Quick Fire Pitching
